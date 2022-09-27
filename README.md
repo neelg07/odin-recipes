@@ -9,3 +9,8 @@ Pre Project:
 - With this, I will be building my experience in using HTML and using Git to commit/push my work to Github.  
 
 Post Project: 
+- Acquired muscle memory for formatting an html-boilerplate
+- Gained familiarity with html elements and attributes
+- Learned how to format a website (without styling with CSS)
+- Now understand Git, its command-line usage, what each step is for, and how to push to Github
+- See the correlation from using Git in VSCode. 
