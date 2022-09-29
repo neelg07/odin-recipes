@@ -14,3 +14,9 @@ Post Project:
 - Learned how to format a website (without styling with CSS)
 - Now understand Git, its command-line usage, what each step is for, and how to push to Github
 - See the correlation from using Git in VSCode. 
+
+CSS Update 1.0:
+- Added a CSS stylesheet to the directory and added a link to each page
+- Gained experience with styling, including different selectors, and attribute values in css
+- Now comfortable with adding, committing, and pushing using Git for projects
+- Learned how to use Git through VSCode and tested it out
